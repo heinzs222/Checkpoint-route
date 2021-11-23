@@ -1,0 +1,13 @@
+.movieDescription {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+.btn {
+  margin: 20px;
+}
+iframe {
+  border: 3px black solid;
+}

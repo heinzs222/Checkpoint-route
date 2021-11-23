@@ -1,0 +1,11 @@
+.spinner-border {
+  width: 75px !important;
+  height: 75px !important;
+}
+.spinnerArea {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: White;
+  margin-top: 300px;
+}

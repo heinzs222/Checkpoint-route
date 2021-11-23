@@ -1,0 +1,38 @@
+.form-inline,
+.search-area {
+  width: 85% !important ;
+}
+.navbar {
+  height: 70px;
+  background-color: black !important;
+  position: relative;
+}
+#NavbarRating {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 80%;
+  background-color: black;
+  border: 0px;
+}
+#NavbarRating > * {
+  padding: 5px;
+  color: white;
+}
+#NavbarRating {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.Navstar:hover {
+  color: yellow !important;
+}
+.Navstar:hover ~ .Navstar {
+  color: yellow !important;
+}
+h6 {
+  color: white;
+  position: absolute;
+  top: 55%;
+}
